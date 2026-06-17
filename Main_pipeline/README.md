@@ -11,12 +11,13 @@ The data asset is a **replicated, synthesized, and structurally mapped version**
 ---
 
 ## 2. Repository Directory Map
-To audit the pipeline lifecycle, navigate through the following decoupled components of this pipeline segment:
+To audit the data pipeline lifecycle, navigate through the components below in sequential order:
 
-* **[DATA_PREPARATION.MD](./DATA_PREPARATION.md):** The comprehensive technical documentation detailing the replication logic, Regular Expression patterns, AI-hybrid prompt workflows, and automated cleaning procedures.
-* **[`anonymization_pipeline.py`](./anonymization_pipeline.py):** The automated Python script executing the multi-field re-serialization, vectorized data cleaning, and mapping loops.
-* **[`core_dataset_cleaned.csv`](./core_dataset_cleaned.csv):** The final, production-ready relational database export containing 0% true PII.
-
+1. 📊 **[Dataset Overview (Current File)](./README.md)**: The structural entry point, business objectives, and final data dictionary.
+2. 📝 **[Data Preparation Deep-Dive](./data_preparation_overview.md)**: Detailed technical documentation covering the replication logic, Regex pattern design, and human-AI workflows.
+3. 🐍 **[Programmatic Pipeline Script](./anonymization_pipeline.py)**: The production Python code executing the automated extraction, mapping, and re-serialization loops.
+4. 📄 **[Raw Nested Data Export](./raw_nested_data.csv)**: The initial flat-file CRM export containing the unstructured, nested text strings.
+5. 🗃️ **[Cleaned Relational Database](./cleaned_nested_data.csv)**: The final, production-ready dataset optimized for downstream BI tools and marketing automation.
 ---
 
 ## 3. Core Business Objectives
