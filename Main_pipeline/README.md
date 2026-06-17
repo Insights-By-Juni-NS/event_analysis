@@ -3,7 +3,7 @@
 ## 1. Context & Dataset Origin
 This directory contains the core dataset utilized for the event analytics and marketing automation lifecycle. 
 
-The data asset is a **replicated, synthesized, and structurally mapped version** of a real-world enterprise CRM export managed during my previous professional tenure as a Marketing Specialist. To maintain absolute corporate data confidentiality while displaying data architecture competencies, the dataset was completely rebuilt from scratch using realistic operational frameworks. 
+The data asset is a **replicated, synthesized, and structurally mapped version** of a real-world enterprise CRM export managed during my previous professional tenure as a Data-Driven Marketing Specialist. To maintain absolute corporate data confidentiality while displaying data architecture competencies, the dataset was completely rebuilt from scratch using realistic operational frameworks. 
 
 * **The Problem with the Raw Export:** Critical operational variables were locked in unstructured string cells, rendering standard filtering, sorting, or ingestion impossible.
 * **The Transformed State:** This core repository hosts a clean, fully unbundled relational database ready for downstream Business Intelligence (BI) visualization and lead scoring workflows.
