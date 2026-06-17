@@ -3,7 +3,7 @@
 ## Section Objectives
 The primary objective of this phase was to analyze the finalized attendee registration profile and evaluate corporate target demographics once the acquisition period closed. By assessing organizational seniority, premium ticket tier distribution, and cross-channel discount behavior, this report measures product-market fit across enterprise hierarchies and uncovers optimization strategies for future event scaling.
 
-[INSERT LIVE DASHBOARD LINK PLACEHOLDER HERE]
+https://datastudio.google.com/s/kcJMToyw-1g
 
 ---
 
