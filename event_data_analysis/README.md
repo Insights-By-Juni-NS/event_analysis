@@ -14,7 +14,7 @@ To navigate the components of this pipeline, follow the structural sequence belo
 ### 1. Main Analysis Overview (`README.md`)
 *   *Current File:* High-level directory routing, tech stack orchestration, and core data preparation frameworks.
 
-### 2. [Pre-Event Marketing Performance Analysis](./pe_event_analysis/)
+### 2. [Pre-Event Marketing Performance Analysis](./event_data_analysis/pre_event_marketing.md/)
 *   **Focus:** Evaluation of acquisition channels, daily registration velocity, and promotional code ROI.
 *   **Asset:** Live interactive campaign tracking dashboard application.
 
