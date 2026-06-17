@@ -22,7 +22,7 @@ To navigate the components of this pipeline, follow the structural sequence belo
 *   **Focus:** Audience segmentation, B2B product-market fit (ticket tier distribution), and campaign engagement matrices.
 *   **Asset:** Live interactive audience breakdown dashboard application.
 
-### 4. [Event Cleaned Data](./data/)
+### 4. [Event Cleaned Data](./event_cleaned_data.csv/)
 *   **Asset:** `event_cleaned_data.csv` (The final, processed master dataset serving as the unified source of truth for all downstream Looker Studio dashboards).
 
 ---
