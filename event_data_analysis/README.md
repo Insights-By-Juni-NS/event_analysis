@@ -14,11 +14,11 @@ To navigate the components of this pipeline, follow the structural sequence belo
 ### 1. Main Analysis Overview (`README.md`)
 *   *Current File:* High-level directory routing, tech stack orchestration, and core data preparation frameworks.
 
-### 2. [Pre-Event Marketing Performance Analysis](./event_data_analysis/pre_event_marketing.md/)
+### 2. [Pre-Event Marketing Performance Analysis](./pre_event_marketing.md/)
 *   **Focus:** Evaluation of acquisition channels, daily registration velocity, and promotional code ROI.
 *   **Asset:** Live interactive campaign tracking dashboard application.
 
-### 3. [Post-Event Insights & Demographics Report](./pst_event_analysis/)
+### 3. [Post-Event Insights & Demographics Report](./post_event_analysis.md/)
 *   **Focus:** Audience segmentation, B2B product-market fit (ticket tier distribution), and campaign engagement matrices.
 *   **Asset:** Live interactive audience breakdown dashboard application.
 
